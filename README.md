@@ -11,19 +11,14 @@ First of all you need to install OpenCV and Numpy. We will do this tutorial usin
 
 MediaPipe works with research and developers' solutions and applications for machine learning in mobile, web applications, edge computing, etc.
 
-MediaPipe Pose processes an RGB image and returns pose landmarks on the most prominent person detected.  Please refer to usage examples.
+MediaPipe  processes an RGB image and returns pose landmarks on the most prominent person detected.  Please refer to usage examples.
 
 Import CV2, mediapipe, and time.
 To install mediapipe 
         pip install mediapipe
 
-OpenCV Python
+OpenCV is an image processing library. It is designed to solve computer vision problems. OpenCV is a C/C++ library that is extended in Python.
 
- OpenCV is an image processing library. It is designed to solve computer vision problems. OpenCV is a C/C++ library that is extended in Python.
-
-
-
-FaceMesh( ) function:
  MediaPipe Face Mesh Detection.
 
   MediaPipe Face Mesh Detection processes an RGB image and returns a list of the
@@ -43,7 +38,7 @@ This image was taken using a webcam.
 
 This image was taken using an Image File.
 
-x-special/nautilus-clipboard
-copy
-file:///home/pyarena/Pictures/Screenshot%20from%202021-07-11%2015-54-33.png
 ![Screenshot from 2021-07-11 15-54-33](https://user-images.githubusercontent.com/64675035/125196441-c8a45600-e27b-11eb-9fde-58303ebbaaad.png)
+
+
+Happy Coding :)
