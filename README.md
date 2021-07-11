@@ -1,5 +1,34 @@
 # face_mesh_detection
-Face Mesh Detection using OpenCV Python
+Face Mesh Detection OpenCV Python
+
+
+
+
+In today's episode, we will see how Face Mesh Detection can be done using Python OpenCV directly via an Image file, webcam or video file.
+
+
+First of all you need to install OpenCV and Numpy. We will do this tutorial using the completed Python programming language so let's get started.
+
+MediaPipe works with research and developers' solutions and applications for machine learning in mobile, web applications, edge computing, etc.
+
+MediaPipe Pose processes an RGB image and returns pose landmarks on the most prominent person detected.  Please refer to usage examples.
+
+Import CV2, mediapipe, and time.
+To install mediapipe 
+        pip install mediapipe
+
+OpenCV Python
+
+ OpenCV is an image processing library. It is designed to solve computer vision problems. OpenCV is a C/C++ library that is extended in Python.
+
+
+
+FaceMesh( ) function:
+ MediaPipe Face Mesh Detection.
+
+  MediaPipe Face Mesh Detection processes an RGB image and returns a list of the
+  detected face location data.
+
 
 This image was taken from a video file.
 
@@ -9,9 +38,7 @@ This image was taken from a video file.
 
 This image was taken using a webcam.
 
-x-special/nautilus-clipboard
-copy
-file:///home/pyarena/Pictures/Screenshot%20from%202021-07-11%2017-26-37.png
+
 ![Screenshot from 2021-07-11 17-26-37](https://user-images.githubusercontent.com/64675035/125196425-bcb89400-e27b-11eb-9f3a-329c71bba05f.png)
 
 This image was taken using an Image File.
